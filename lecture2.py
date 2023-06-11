@@ -87,7 +87,8 @@ print(Dict)
 3. can get input with can be same elements during the creation of set
 """
 
-Set = set([1, 2, 3])
+Set = {1, 2, 3}
 print(Set)
 
 
+ 
